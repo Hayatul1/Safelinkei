@@ -28,7 +28,7 @@ masukkan kode di bawah setelah paragraf 1 atau ke 2
 <script type="text/javascript">
 var currentURL=location.href;
 var str = currentURL;
-var res = str.replace("https://kompiajaib.safelink.web.id/2021/05/post1.html?url=", "");
+var res = str.replace("https://safelinkei.blogspot.com/2023/10/post1.html?url=", "");
 document.write('<button type="button" id="download" class="Visit_Link btn btn-success" onclick="changeLink();" style="display: none;"><strong>Download File</strong> <i class="fa fa-download"></i></button>')
 </script>
         </div>
