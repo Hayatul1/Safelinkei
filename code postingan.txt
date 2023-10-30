@@ -24,11 +24,11 @@ masukkan kode di bawah setelah paragraf 1 atau ke 2
 </div>
 <button id="download2" class="alert alert-dismissible alert-success btn-lg" style='display:none'><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> <strong>Well done!</strong> you have successfully gained access to Decrypted Link. <i class="fa fa-hand-o-down slideInDownThumb" aria-hidden="true"></i></button>
 <div class="clearfix"></div>
-<script src="https://raw.githack.com/safelinkwebid/safelinkkompiajaib/master/post1.js" type="text/javascript"></script>
+<script src="https://raw.githack.com/Hayatul1/Safelinkei/main/post1.js" type="text/javascript"></script>
 <script type="text/javascript">
 var currentURL=location.href;
 var str = currentURL;
-var res = str.replace("https://safelinkei.blogspot.com/2023/10/post1.html?url=", "");
+var res = str.replace("https://safelinkei.blogspot.com/2023/10/asupan-makanan-untuk-ibu-hamil.html?url=", "");
 document.write('<button type="button" id="download" class="Visit_Link btn btn-success" onclick="changeLink();" style="display: none;"><strong>Download File</strong> <i class="fa fa-download"></i></button>')
 </script>
         </div>
